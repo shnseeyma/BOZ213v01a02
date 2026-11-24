@@ -1,5 +1,3 @@
-https://youtu.be/nf36aUYHEZI
-
 TÜBİTAK 2209-A PROJEM 
 
 Projemin adı “Bir Perakende Mağazası Şubesinde Oyunlaştırılmış ve Mekân Destekli Dijital Oryantasyon Mobil Uygulamasının Geliştirilmesi ve Kullanılabilirliğinin Değerlendirilmesi.”
@@ -20,3 +18,7 @@ Projeyi nasıl gerçekleştireceğim?
 İlk olarak mağazanın ihtiyaçlarını belirleyerek hangi konularda eğitim verileceğini tespit edeceğim. Ardından uygulamanın ekranlarını, kullanıcı giriş sistemini ve görev akışını tasarlayacağım. Sonraki aşamada HTML, CSS, JavaScript ve ihtiyaç duyulan arka plan teknolojilerini kullanarak uygulamayı geliştireceğim. Eğitim videolarını hazırlayıp sisteme ekleyeceğim. Uygulama tamamlandığında pilot kullanıcılarla testler gerçekleştireceğim. Testlerden elde ettiğim verileri Python gibi analiz araçlarından yararlanarak değerlendirecek, kullanıcıların yaşadığı sorunları belirleyerek gerekli düzenlemeleri yapacağım.
 
 Sonuç olarak bu projeyle yalnızca bir mobil uygulama geliştirmeyi değil, aynı zamanda yeni çalışanların işe ve çalışma ortamına daha kolay uyum sağlamasına yardımcı olacak, farklı işletmelerde de kullanılabilecek modüler bir dijital oryantasyon sistemi ortaya çıkarmayı hedefliyorum.
+
+
+
+https://youtu.be/nf36aUYHEZI
