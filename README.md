@@ -11,8 +11,6 @@ Python'ı bu projede nerede kullanacağım?
 Python'ı özellikle uygulamanın arka planında çalışan sistemin geliştirilmesinde ve proje sonunda elde edeceğim verilerin analizinde kullanmayı planlıyorum. Örneğin kullanıcıların e-posta ve şifreyle giriş yapabilmesi, kullanıcı bilgilerinin kontrol edilmesi, izlenen videoların ve tamamlanan görevlerin kaydedilmesi, kullanıcıların ilerleme durumlarının takip edilmesi gibi işlemlerde Python'dan yararlanabilirim. Bunun yanında uygulamadan elde edeceğim verileri Python kullanarak inceleyebilirim. Hangi görevlerin daha fazla tamamlandığını, kullanıcıların görevleri ne kadar sürede bitirdiğini, video izleme ve görev tamamlama oranlarını hesaplayabilirim. Anketlerden elde edeceğim sonuçları da analiz ederek uygulamanın kullanılabilirliğini değerlendirebilirim.
 
 
-Projedeki hedeflerim öncelikle mağazanın oryantasyon ihtiyaçlarını belirlemek, mağazanın fiziksel bölümlerini ve eğitim konularını incelemek, her bölüm için kısa eğitim videoları hazırlamak ve bunları mobil uygulamaya entegre etmek. Daha sonra e-posta doğrulama, video izleme, görev tamamlama ve ilerleme takibi özelliklerini çalışır hâle getirmek istiyorum. Geliştirdiğim uygulamayı yaklaşık 10-15 kişiyle pilot olarak test ederek kullanıcıların uygulamayı ne kadar kolay kullanabildiğini değerlendireceğim. Bunun için Sistem Kullanılabilirlik Ölçeği (SUS-TR), görev tamamlama kayıtları ve kullanıcı görüşmelerinden yararlanacağım.
-
 
 
 https://youtu.be/nf36aUYHEZI
