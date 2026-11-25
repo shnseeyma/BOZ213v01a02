@@ -14,3 +14,7 @@ Python'ı özellikle uygulamanın arka planında çalışan sistemin geliştiril
 Projedeki hedeflerim öncelikle mağazanın oryantasyon ihtiyaçlarını belirlemek, mağazanın fiziksel bölümlerini ve eğitim konularını incelemek, her bölüm için kısa eğitim videoları hazırlamak ve bunları mobil uygulamaya entegre etmek. Daha sonra e-posta doğrulama, video izleme, görev tamamlama ve ilerleme takibi özelliklerini çalışır hâle getirmek istiyorum. Geliştirdiğim uygulamayı yaklaşık 10-15 kişiyle pilot olarak test ederek kullanıcıların uygulamayı ne kadar kolay kullanabildiğini değerlendireceğim. Bunun için Sistem Kullanılabilirlik Ölçeği (SUS-TR), görev tamamlama kayıtları ve kullanıcı görüşmelerinden yararlanacağım.
 
 
+
+https://youtu.be/nf36aUYHEZI
+
+
